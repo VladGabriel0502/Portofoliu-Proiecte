@@ -1,0 +1,4 @@
+Modul Activ - Led Verde
+Modul STOP - Led Rosu
+Modul Automat - Led Galben 1 activ constant
+Modul Manual - Led Galber 2 palpaie o data pe secunda
