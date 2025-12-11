@@ -35,7 +35,6 @@ Acest repository reunește o selecție de proiecte practice realizate în cadrul
 ## Alte mențiuni
 
 - Proiectele sunt create pentru uz educațional și demonstrează aplicarea practică a conceptelor de automatizări industriale.
-- Pentru fiecare proiect poate fi adăugat un `README.md` detaliat în folderul său, la nevoie.
 
 ---
 
